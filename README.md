@@ -1,13 +1,13 @@
-Clone this project
+# Steps to run the project
 
+**Step 1** - Clone this repository
 
-Then install requirements.txt using pip:-  pip install -r requirements.txt
+**Step 2** - Then install requirements.txt using pip
 
-In settings.py file give your gemini api key in variable API_KEY
+`pip install -r requirements.txt`
 
-To run the Django server, navigate to the directory where the manage.py file is located in your terminal, and then execute the following command:- python manage.py runserver
+**Step 3** - In settings.py file give your gemini api key in variable `API_KEY`
 
+**Step 4** - To run the Django server, navigate to the root directory in your terminal, and then execute this command 
 
-
-
-
+`python manage.py runserver`
