@@ -1,0 +1,23 @@
+0 Clams
+1 Corals
+2 Crabs
+3 Dolphins
+4 Eel
+5 Fish
+6 Jelly fish
+7 Lobster
+8 Nudibranchs
+9 Octopus
+10 Otter
+11 Penguin
+12 Puffers
+13 Sea Rays
+14 Sea urchins
+15 Sea horse
+16 Seals
+17 Sharks
+18 Shrimps
+19 Squid
+20 Star fish
+21 Turtle
+22 Whale
